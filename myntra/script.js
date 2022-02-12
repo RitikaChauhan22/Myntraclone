@@ -109,7 +109,7 @@ wishlist.onclick = function () {
 
 let logo = document.getElementById ('logo');
 logo.onclick = function () {
-  window.location.href = '/myntra.html';
+  window.location.href = '/index.html';
 };
 
 let bag = document.getElementById ('bagI');
